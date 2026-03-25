@@ -22,6 +22,12 @@ For a standard installation:
   pip install .
 ```
 
+The command for installation via GitHub is as follows:
+
+```bash
+  pip install git+https://github.com/JietingWang91/ConsistencyAwareLib.git
+```
+
 ## Dependencies
 
 - Python >= 3.8
